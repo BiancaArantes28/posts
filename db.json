@@ -1,6 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "Bianca Arantes" }
+    { "id": 1, "title": "React", "author": "Bianca Arantes" },
+    { "id": 2, "title": "Redux", "author": "Bianca Arantes" },
+    { "id": 3, "title": "JavaScript", "author": "Bianca Arantes" },
+    { "id": 4, "title": "Material UI", "author": "Bianca Arantes" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
